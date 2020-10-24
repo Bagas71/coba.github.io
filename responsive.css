@@ -1,0 +1,197 @@
+@media all and (max-width: 1000px){
+
+	.hero{
+	width: 100%; 
+		background-image: url(asset/2.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.hero .kelber1{
+	padding-top: 15%;
+	padding-left: 8%;
+}
+
+.hero .kelber1 h2{
+	font-size: 24px;
+	font-family: 'Carter One', cursive;	
+}
+
+.hero .kelber2 img{
+	height: 60%;
+	margin-top: 190px;
+	margin-left: -100px;
+}
+
+
+
+/*tabe*/
+.tabe h1{
+	font-family: 'Carter One', cursive;
+	padding-top: 60px;
+}
+
+.kerbel p{
+	font-size: 22px;
+	text-align: center;
+	padding-left: 200px;
+	padding-right:200px;
+	font-family: 'Crete Round', serif;
+
+}
+/*akhir tabe*/
+
+/*ada*/
+.keterangan li{
+	list-style: none;
+	font-family: 'Crete Round', serif;
+	font-size: 14px;
+	line-height: 50px;
+}
+
+.keterangan li i{
+	font-size: 34px;
+}
+/*akhir ada*/
+
+.mitra h1{
+	font-size: 27px;
+}
+
+}
+
+@media all and (max-width: 440px){
+	.hero{
+	position: absolute;
+	width: 100%;
+	height: 240.13px;
+	background-size: cover;
+	background-position: center;
+	background-image: url(asset/bk1.jpg);
+
+}
+
+.hero .kelber1 h2{
+
+	font-size: 12px;
+	font-family: 'Carter One', cursive;
+	margin-top: 200px;
+}
+
+.hero .kelber1 span{
+	color: #EC3237;
+}
+
+.hero .kelber1 img{
+	width: 39%;
+	margin-top: -70px;
+	position: relative;
+	margin-left: 10px;
+	margin-bottom: -40px;
+}
+
+.hero .kelber2 img{
+	height: 65%;
+	margin-top: -160px;
+	padding-top: 30%;
+	padding-left: 80%;
+}
+
+/*tabe*/
+.tabe h1{
+	position: relative;
+	font-family: 'Carter One', cursive;
+	padding-top: 60px;
+	margin-top: 200px;
+}
+
+.kerbel p{
+	position: relative;
+	font-size: 13px;
+	text-align: center;
+	padding-left: 100px;
+	padding-right:100px;
+	font-family: 'Crete Round', serif;
+}
+
+.kerbel .a1{
+	color: #EC3237;
+	font-weight: bold;
+}
+
+.kerbel .a2{
+	color: #FFCC2A;
+	font-weight: bold;
+}
+/*akhir tabe*/
+
+/*point*/
+.point .point2{
+	background-color: #F0EDED;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: -35px;
+	padding-right: 30px;
+}
+
+.point .point2 h1{
+	font-size: 22px;
+	margin-left: 40px;
+}
+
+.point .point2 li{
+	list-style: none;
+	font-size: 14px;
+	font-family: 'Carter One', cursive;
+	line-height: 30px;
+}
+
+.point .img img{
+	display: none;
+}
+/*akhir point*/
+
+/*ada*/
+.ada h1{
+	font-size: 27px;
+}
+
+.keterangan{
+	background-color: #F0EDED;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 20px;
+}
+
+.keterangan li{
+	list-style: none;
+	font-family: 'Crete Round', serif;
+	font-size: 14px;
+	margin-top: 30px;
+	line-height: 22px;
+}
+
+.keterangan li i{
+	font-size: 18px;
+	color: #FF8A00;
+}
+/*akhir ada*/
+
+/*mitra*/
+.mitra h1{
+	font-size: 17px;
+	margin-bottom: -20px;
+}
+
+.tombol a{
+	font-size: 14px;
+}
+/*akhir mitra*/
+
+/*footer*/
+.footer p{	
+	margin-top: -30px;	
+	font-size: 12px;
+}
+/*akhir footer*/
+}

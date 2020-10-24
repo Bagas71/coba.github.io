@@ -1,0 +1,120 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Crete+Round&display=swap');
+body{
+	background-image: url(asset/skulls.png);
+}
+
+/*header*/
+.hero{
+	background-image: url(asset/2.jpg);
+	width: 100%; 
+	background-size: cover;
+	background-position: center;
+}
+
+.hero .kelber1{
+	padding-top: 5%;
+	padding-left: 8%;
+}
+
+.hero .kelber1 h2{
+	font-size: 35px;
+	font-family: 'Carter One', cursive;
+	margin-left: 10px;
+}
+
+.hero .kelber1 span{
+	color: #EC3237;
+}
+
+.hero .kelber1 img{
+	width: 80%;
+}
+
+.hero .kelber2 img{
+	height: 80%;
+	margin-top: 30px;
+	padding-top: 30%;
+	padding-left: 25%;
+}
+/*akhir header*/
+
+/*awal tabe*/
+.tabe h1{
+	font-family: 'Carter One', cursive;
+	padding-top: 60px;
+}
+
+.kerbel p{
+	font-size: 27px;
+	text-align: center;
+	padding-left: 400px;
+	padding-right:400px;
+	font-family: 'Crete Round', serif;
+}
+/*akhir tabe*/
+
+/*point*/
+.point .point2{
+	background-color: #F0EDED;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.point .point2 h1{
+	font-family: 'Carter One', cursive;
+}
+
+.point .point2 li{
+	list-style: none;
+	font-size: 17px;
+	font-family: 'Carter One', cursive;
+	line-height: 60px;
+}
+
+.point .point2 i{
+color: #EC3237;
+}
+
+.point .img img{
+	width: 350px;
+	height: 300px;
+	margin-top: 80px;
+	padding-left: 50px;
+}
+/*akhir point*/
+
+/*ada*/
+.ada h1{
+	font-family: 'Carter One', cursive;
+}
+
+.keterangan{
+	background-color: #F0EDED;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.keterangan li{
+	list-style: none;
+	font-family: 'Crete Round', serif;
+	font-size: 27px;
+	line-height: 70px;
+}
+
+.keterangan li i{
+	font-size: 34px;
+	color: #FF8A00;
+}
+/*akhir ada*/
+
+/*mitra*/
+.mitra{
+	padding-left: 20%;
+	padding-right: 20%
+}
+.mitra h1{
+	font-family: 'Carter One', cursive;
+}
+/*akhirmitra*/
